@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.Tests", "IMS.Tests\IMS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basiclogic", "Basiclogic\Basiclogic.csproj", "{18683E53-9623-48BE-9A91-63526272F633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{FA0B7B44-7BFC-4AF6-943F-A145C5B1CF31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{18683E53-9623-48BE-9A91-63526272F633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18683E53-9623-48BE-9A91-63526272F633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18683E53-9623-48BE-9A91-63526272F633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0B7B44-7BFC-4AF6-943F-A145C5B1CF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0B7B44-7BFC-4AF6-943F-A145C5B1CF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0B7B44-7BFC-4AF6-943F-A145C5B1CF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0B7B44-7BFC-4AF6-943F-A145C5B1CF31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
